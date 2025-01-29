@@ -1,7 +1,6 @@
 # 🎰 4D Lottery Prediction Using Linear Regression 🎯
 ---
 ### 🌟 Project Overview
-![ScreenRecording2025-01-29at21 30 19-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9638110e-9c4a-4716-87aa-1a289bb45436)
 
 Ever wondered if machine learning can predict lottery numbers? 🤔 This project takes a shot at predicting the next 4-digit lottery number using historical 4D lottery data! 📊
 
