@@ -51,7 +51,9 @@ The dataset (4d.csv) consists of 5,285 entries with the following columns:
 ## 🔍 Key Observations
 
 ✅ The model treats the prediction task as a regression problem, predicting the next 1stPrizeNo based on past numbers.
+
 ✅ Due to the randomness of lottery results, the accuracy of this approach is highly uncertain. 🤷‍♂️
+
 ✅ The dataset contains structured numerical values, making it suitable for machine learning, but real-world lottery numbers follow a non-deterministic pattern.
 
 ## ⚠️ Limitations
