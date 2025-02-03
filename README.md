@@ -59,7 +59,9 @@ The dataset (4d.csv) consists of 5,285 entries with the following columns:
 ## ⚠️ Limitations
 
 ❌ Randomness: Lottery numbers are drawn randomly, making prediction inherently unreliable. 🎲
+
 ❌ Linear Model Limitations: A simple linear regression model may not capture complex patterns in the data.
+
 ❌ Feature Dependence: The model assumes past numbers influence future draws, which may not be valid. 🤨
 
 ## 🚀 Future Improvements
