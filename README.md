@@ -67,8 +67,11 @@ The dataset (4d.csv) consists of 5,285 entries with the following columns:
 ## 🚀 Future Improvements
 
 🔹 Exploring deep learning techniques (e.g., recurrent neural networks) for better pattern recognition. 🧠
+
 🔹 Incorporating additional data sources, such as statistical frequency analysis. 📊
+
 🔹 Testing alternative machine learning models, like decision trees or ensemble methods. 🌳
+
 🔹 Applying time series forecasting techniques, such as ARIMA or LSTMs, to capture potential hidden patterns. 📈
 
 ### 🎯 Conclusion
